@@ -11,7 +11,7 @@ List of files:
 1 - README
 2 - data.csv => Original input file provided for case study
 3 - Receipt Matching Interview Test-2.pdf => Case Study overview document
-4 - match_receipt_eda.ipynb => Jupyter Notebook with Exploratory data analysis and Modeling Details
+4 - match_receipt_eda_analysis.ipynb => Jupyter Notebook with Exploratory data analysis and Modeling Details
 5 - predict_matching_receipts.py => Python program with all the functionality, to make predictions with new file
 6 - model_file.pk => Model file saved
 7 - validation_file.csv => Validation file (a copy of data.csv with matched_transaction_id removed)
